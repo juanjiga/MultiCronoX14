@@ -2,6 +2,8 @@ package com.juanjiga.multicronox14;
 
 import android.widget.Chronometer;
 
+//holaaaa
+
 public class Jugador {
 
     private Chronometer crono;
