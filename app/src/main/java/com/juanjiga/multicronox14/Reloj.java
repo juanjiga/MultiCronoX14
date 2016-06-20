@@ -1,5 +1,5 @@
 package com.juanjiga.multicronox14;
-//hola desde casa
+//hola desde Taller
 public class Reloj {
     private int minutos;
     private int segundos;
