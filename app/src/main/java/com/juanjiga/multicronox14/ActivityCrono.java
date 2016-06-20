@@ -310,9 +310,9 @@ public class ActivityCrono extends AppCompatActivity implements OnClickListener 
                 builder.setCancelable(true);
                 builder.setPositiveButton("Sí", new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface builder, int id) {
-                        for (int i=1; i<15; i++) {
-                            dbHelper.modificar(i, relojes[i].getSegundosTotales());
-                        }
+                        //for (int i=1; i<15; i++) {
+                            //dbHelper.modificar(i, relojes[i].getSegundosTotales());
+                        //}
                         wakelock.release();
                         System.exit(RESULT_OK);
                     }
