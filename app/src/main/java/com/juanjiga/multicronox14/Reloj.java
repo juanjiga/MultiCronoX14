@@ -2,6 +2,8 @@ package com.juanjiga.multicronox14;
 
 // Desde Casa
 
+// Desde taller Win8
+
 public class Reloj {
     private int minutos;
     private int segundos;
