@@ -12,7 +12,7 @@ public class Reloj {
     private boolean onoff;
     private String colorBoton;
     private String colorNumero;
-    private int segundosHoy;
+    //private int segundosHoy;
 
     Reloj (){
         minutos = 0;
