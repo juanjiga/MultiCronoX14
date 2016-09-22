@@ -262,7 +262,6 @@ public class ActivityCrono extends AppCompatActivity implements OnClickListener 
         boton14.setBackgroundColor(Color.parseColor(relojes[14].getColorBoton()));
         boton14.setTextColor(Color.parseColor(relojes[14].getColorNumero()));*/
     }
-
     public void actualizaTiempo() {
         if (contando) {
             segundosTotales++;
